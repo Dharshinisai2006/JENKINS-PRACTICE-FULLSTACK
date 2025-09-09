@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_G6_8EYpqEfCD6NrxzYHcTQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_G6_8EopqEfCD6NrxzYHcTQ" bindingContexts="_G6_8G4pqEfCD6NrxzYHcTQ">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ToDoServiceImpl.java&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/service/ToDoServiceImpl.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/service/ToDoServiceImpl.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ToDoService.java&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/service/ToDoService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/service/ToDoService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ToDoController.java&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/controller/ToDoController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/controller/ToDoController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/TODOAPI-SPRINGBOOT/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;SpringBootPropertyEditor&quot; name=&quot;application.properties&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/src/main/resources/application.properties&quot;>&#xD;&#xA;&lt;persistable path=&quot;/TODOAPI-SPRINGBOOT/src/main/resources/application.properties&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ToDo.java&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/entity/ToDo.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/entity/ToDo.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TodoapiSpringbootApplication.java&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/TodoapiSpringbootApplication.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/TodoapiSpringbootApplication.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ToDoRepository.java&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/repository/ToDoRepository.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/repository/ToDoRepository.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TodoapiSpringbootApplication.java&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/TodoapiSpringbootApplication.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/TodoapiSpringbootApplication.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/TODOAPI-SPRINGBOOT/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ToDoServiceImpl.java&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/service/ToDoServiceImpl.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/service/ToDoServiceImpl.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ToDoService.java&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/service/ToDoService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/service/ToDoService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ToDoController.java&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/controller/ToDoController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/controller/ToDoController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;SpringBootPropertyEditor&quot; name=&quot;application.properties&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/src/main/resources/application.properties&quot;>&#xD;&#xA;&lt;persistable path=&quot;/TODOAPI-SPRINGBOOT/src/main/resources/application.properties&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ToDo.java&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/entity/ToDo.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/entity/ToDo.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ToDoRepository.java&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/repository/ToDoRepository.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/repository/ToDoRepository.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_G6_8EopqEfCD6NrxzYHcTQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_HYNcgIpqEfCD6NrxzYHcTQ" label="%trimmedwindow.label.eclipseSDK" x="952" y="0" width="976" height="1028">
     <persistedState key="coolBarVisible" value="true"/>
@@ -10,6 +10,7 @@
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1757084884645"/>
     <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_HYNcgIpqEfCD6NrxzYHcTQ" selectedElement="_HYNcgYpqEfCD6NrxzYHcTQ" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_HYNcgYpqEfCD6NrxzYHcTQ" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_HjXjoIpqEfCD6NrxzYHcTQ">
         <children xsi:type="advanced:Perspective" xmi:id="_HjXjoIpqEfCD6NrxzYHcTQ" elementId="org.eclipse.jst.j2ee.J2EEPerspective" selectedElement="_HjXjoYpqEfCD6NrxzYHcTQ" label="Java EE" iconURI="platform:/plugin/org.eclipse.jst.j2ee.ui/icons/full/cview16/j2ee_perspective.gif">
@@ -131,7 +132,7 @@
                 <tags>categoryTag:Debug</tags>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_HjXjropqEfCD6NrxzYHcTQ" containerData="8000" selectedElement="_HjXjtYpqEfCD6NrxzYHcTQ">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_HjXjropqEfCD6NrxzYHcTQ" containerData="8000" selectedElement="_HjXjr4pqEfCD6NrxzYHcTQ">
               <children xsi:type="basic:PartSashContainer" xmi:id="_HjXjr4pqEfCD6NrxzYHcTQ" containerData="4956" selectedElement="_HjXjsIpqEfCD6NrxzYHcTQ" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_HjXjsIpqEfCD6NrxzYHcTQ" elementId="org.eclipse.ui.editorss" containerData="8000" ref="_Hi3NUIpqEfCD6NrxzYHcTQ"/>
                 <children xsi:type="basic:PartStack" xmi:id="_HjXjsYpqEfCD6NrxzYHcTQ" elementId="topRight" containerData="2000" selectedElement="_HjXjsopqEfCD6NrxzYHcTQ">
@@ -256,7 +257,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_Hi3NUIpqEfCD6NrxzYHcTQ" elementId="org.eclipse.ui.editorss" selectedElement="_Hi3NUYpqEfCD6NrxzYHcTQ">
-      <children xsi:type="basic:PartStack" xmi:id="_Hi3NUYpqEfCD6NrxzYHcTQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_CcNNgIvTEfCdIr60sF1jbg">
+      <children xsi:type="basic:PartStack" xmi:id="_Hi3NUYpqEfCD6NrxzYHcTQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_G6CW4I2YEfCyOedvDXtjgw">
         <tags>EditorStack</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>active</tags>
@@ -265,8 +266,6 @@
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_R7mTsIvTEfCdIr60sF1jbg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ToDo.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ToDo.java&quot; partName=&quot;ToDo.java&quot; title=&quot;ToDo.java&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/entity/ToDo.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/entity/ToDo.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;481&quot; selectionTopPixel=&quot;39&quot;/>&#xD;&#xA;&lt;/editor>"/>
@@ -297,6 +296,20 @@
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_46lZcI2XEfCyOedvDXtjgw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TODOAPI-SPRINGBOOT/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;TODOAPI-SPRINGBOOT/pom.xml&quot; title=&quot;TODOAPI-SPRINGBOOT/pom.xml&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/TODOAPI-SPRINGBOOT/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_G6CW4I2YEfCyOedvDXtjgw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TodoapiSpringbootApplication.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TodoapiSpringbootApplication.java&quot; partName=&quot;TodoapiSpringbootApplication.java&quot; title=&quot;TodoapiSpringbootApplication.java&quot; tooltip=&quot;TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/TodoapiSpringbootApplication.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/TODOAPI-SPRINGBOOT/src/main/java/com/klef/todo/TodoapiSpringbootApplication.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;385&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
         </children>
       </children>
     </sharedElements>
@@ -499,7 +512,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_HdOfYIpqEfCD6NrxzYHcTQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_SOdI4I2BEfCI6ODCmAWdag" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_G8d7-opqEfCD6NrxzYHcTQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_2y1p142XEfCyOedvDXtjgw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_G8d7-opqEfCD6NrxzYHcTQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_HdOfYYpqEfCD6NrxzYHcTQ" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -507,8 +520,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_HdOfY4pqEfCD6NrxzYHcTQ" elementId="org.eclipse.ui.workbench.edit">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_SOgMMI2BEfCI6ODCmAWdag" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="_G8ZqV4pqEfCD6NrxzYHcTQ"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_SOgzQI2BEfCI6ODCmAWdag" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_G8a4Z4pqEfCD6NrxzYHcTQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_2y1p3Y2XEfCyOedvDXtjgw" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="_G8ZqV4pqEfCD6NrxzYHcTQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_2y1p3o2XEfCyOedvDXtjgw" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_G8a4Z4pqEfCD6NrxzYHcTQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_HdOfZIpqEfCD6NrxzYHcTQ" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -538,7 +551,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_HdPGcIpqEfCD6NrxzYHcTQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_SOiocI2BEfCI6ODCmAWdag" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_G8dU3YpqEfCD6NrxzYHcTQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_2y1p5I2XEfCyOedvDXtjgw" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_G8dU3YpqEfCD6NrxzYHcTQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_HdPGcYpqEfCD6NrxzYHcTQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -3283,7 +3296,7 @@
   <addons xmi:id="_G7AjK4pqEfCD6NrxzYHcTQ" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_G7AjLIpqEfCD6NrxzYHcTQ" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_G7V6UIpqEfCD6NrxzYHcTQ" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_2jpXQY2XEfCyOedvDXtjgw" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_G8P5QIpqEfCD6NrxzYHcTQ" elementId="org.springframework.tooling.ls.eclipse.gotosymbol.commands.category" name="STS4"/>
   <categories xmi:id="_G8P5QYpqEfCD6NrxzYHcTQ" elementId="org.eclipse.ui.category.edit" name="Edit"/>
