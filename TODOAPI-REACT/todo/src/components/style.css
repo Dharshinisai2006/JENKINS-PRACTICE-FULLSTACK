@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+.student-container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 12px;
+  background-color: #fff0f6; /* very light pink */
+  box-shadow: 0px 4px 16px rgba(255, 105, 180, 0.3);
+  font-family: 'Poppins', sans-serif;
+}
+
+h2, h3 {
+  color: brown;
+  margin-bottom: 10px;
+}
+
+input, select, textarea {
+  padding: 12px;
+  margin: 10px 0;
+  width: 100%;
+  border: 1px solid #f8bbd0;
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: #e0f7fa;
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr; /* single column */
+  gap: 12px;
+}
+
+.btn-group {
+  margin-top: 10px;
+}
+
+button {
+  padding: 10px 16px;
+  margin: 10px 8px 10px 0;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Buttons */
+.btn-blue {
+  background-color: #4fc3f7;
+}
+.btn-blue:hover {
+  background-color: #0288d1;
+}
+
+.btn-green {
+  background-color: brown;
+}
+.btn-green:hover {
+  background-color: #6d2d2d;
+}
+
+.btn-red {
+  background-color: #d81b60;
+}
+.btn-red:hover {
+  background-color: #a00037;
+}
+
+.btn-gray {
+  background-color: #90caf9;
+}
+.btn-gray:hover {
+  background-color: #42a5f5;
+}
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: #fce4ec;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+th, td {
+  padding: 12px 14px;
+  text-align: left;
+  border-bottom: 1px solid #f8bbd0;
+  vertical-align: middle;
+  font-family: 'Poppins', sans-serif;
+}
+
+th {
+  background-color: #b3e5fc;
+  font-weight: 600;
+  color: brown;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+pre {
+  background-color: #e1f5fe;
+  padding: 10px;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+/* Messages */
+.message {
+  margin-top: 20px;
+  color: brown;
+  font-weight: 500;
+}
+
+.message-banner {
+  position: fixed;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #4fc3f7;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 6px;
+  font-weight: bold;
+  z-index: 1000;
+  text-align: center;
+  min-width: 300px;
+  max-width: 80%;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.message-banner.error {
+  background-color: #d81b60;
+}
+
+.message-banner.success {
+  background-color: #4fc3f7;
+}

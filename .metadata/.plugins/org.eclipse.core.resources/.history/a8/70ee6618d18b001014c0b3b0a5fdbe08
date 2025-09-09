@@ -1,0 +1,15 @@
+package com.klef.todo.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+import com.klef.todo.entity.ToDo;
+
+import java.util.List;
+
+@Repository
+public interface ToDoRepository extends JpaRepository<ToDo, Integer> {
+
+    // Custom finder methods for ToDo
+    List<ToDo> findByCategory(String category);
+    List<ToDo> findByStatus(String status);
+}

@@ -1,0 +1,55 @@
+package com.klef.todo.service;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.klef.todo.entity.ToDo;
+import com.klef.todo.repository.ToDoRepository;
+
+@Service
+public class ToDoServiceImpl implements ToDoService {
+
+    @Autowired
+    private ToDoRepository toDoRepository;
+
+    @Override
+    public ToDo addToDo(ToDo todo) {
+        return toDoRepository.save(todo);
+    }
+
+    @Override
+    public List<ToDo> getAllToDos() {
+        return toDoRepository.findAll();
+    }
+
+    @Override
+    public ToDo getToDoById(int id) {
+        Optional<ToDo> opt = toDoRepository.findById(id);
+        return opt.orElse(null);
+    }
+
+    @Override
+    public ToDo updateToDo(ToDo todo) {
+        ToDo existing = getToDoById(todo.getId());
+        if (existing != null) {
+            // Update all fields
+            existing.setTitle(todo.getTitle());
+            existing.setDescription(todo.getDescription());
+            existing.setCategory(todo.getCategory());
+            existing.setStatus(todo.getStatus());
+            existing.setDueDate(todo.getDueDate());
+            
+            return toDoRepository.save(existing);
+        }
+        return null; // Optional: handle not found in controller
+    }
+
+
+    @Override
+    public void deleteToDoById(int id) {
+        toDoRepository.deleteById(id);
+    }
+}
