@@ -6,7 +6,7 @@ pipeline {
         // ===== FRONTEND BUILD =====
         stage('Build Frontend') {
             steps {
-                dir('TODOAPI-REACT') {
+                dir('TODOAPI-REACT/todo') {
                     bat 'npm install'
                     bat 'npm run build'
                 }
