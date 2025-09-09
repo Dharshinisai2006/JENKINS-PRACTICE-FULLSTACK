@@ -14,17 +14,18 @@ pipeline {
         }
 
         // ===== FRONTEND DEPLOY =====
-        stage('Deploy Frontend to Tomcat') {
-            steps {
-                bat '''
-                if exist "C:\\Program Files\\Apache Software Foundation\\Tomcat 10.1\\webapps\\reacttodoapi" (
-                    rmdir /S /Q "C:\\Program Files\\Apache Software Foundation\\Tomcat 10.1\\webapps\\reacttodoapi"
-                )
-                mkdir "C:\\Program Files\\Apache Software Foundation\\Tomcat 10.1\\webapps\\reacttodoapi"
-                xcopy /E /I /Y TODOAPI-REACT/todo\\dist\\* "C:\\Program Files\\Apache Software Foundation\\Tomcat 10.1\\webapps\\reacttodoapi"
-                '''
-            }
-        }
+    stage('Deploy Frontend to Tomcat') {
+    steps {
+        bat '''
+        if exist "C:\\Program Files\\Apache Software Foundation\\Tomcat 10.1\\webapps\\reacttodoapi" (
+            rmdir /S /Q "C:\\Program Files\\Apache Software Foundation\\Tomcat 10.1\\webapps\\reacttodoapi"
+        )
+        mkdir "C:\\Program Files\\Apache Software Foundation\\Tomcat 10.1\\webapps\\reacttodoapi"
+        xcopy /E /I /Y TODOAPI-REACT\\todo\\build\\* "C:\\Program Files\\Apache Software Foundation\\Tomcat 10.1\\webapps\\reacttodoapi"
+        '''
+    }
+}
+
 
         // ===== BACKEND BUILD =====
         stage('Build Backend') {
